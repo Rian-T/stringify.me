@@ -1,14 +1,14 @@
 {
 	"basics": {
 		"name": "Rian-T",
-		"label": "Developer",
+		"label": "Engineering student and freelance developer",
 		"picture": "profile.jpg",
 		"email": "riantouchent@gmail.com",
 		"phone": "+33 6 58 03 62 06",
 		"website": "https://pagadala.me/about/",
 		"twitter": "https://twitter.com/_RianT",
 		"github": "http://github.com/rian-t",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"summary": "Top class engineering student and freelance mobile developer. I mainly use Flutter, node.js and firebase. I make artificial intelligence in my free time"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
